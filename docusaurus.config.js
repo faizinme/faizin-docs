@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Faizin Personal Website',
+  title: 'Faizin Docs',
   tagline: 'creative enthusiast',
   url: 'https://faizin.me',
   baseUrl: '/',
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Faizin Docs',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -68,6 +68,7 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Tutorial',
+            label: 'About',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -90,10 +91,10 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Useful links',
             items: [
               {
-                label: 'Stack Overflow',
+                label: 'Odin Project',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
@@ -120,7 +121,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Faizin dot net.`,
       },
       prism: {
         theme: lightCodeTheme,
