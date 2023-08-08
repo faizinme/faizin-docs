@@ -82,16 +82,32 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'social media',
             items: [
               {
                 label: 'Tutorial',
                 to: '/docs/intro',
               },
+              {
+                label: 'Facebook'
+                href: 'https://www.facebook.com/',
+              },
+              {
+                label: 'Instagram',
+                href: 'https://www.instagram.com/',
+              },
+              {
+                label: 'Linkedin',
+                href: 'https://id.linkedin.com/in/nur-faizin',
+              },
+              {
+                label: 'Twitter',
+                href: 'https:twitter.com',
+              },
             ],
           },
           {
-            title: 'Useful links',
+            title: 'useful links',
             items: [
               {
                 label: 'Odin Project',
