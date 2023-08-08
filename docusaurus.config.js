@@ -107,20 +107,24 @@ const config = {
             ],
           },
           {
-            title: 'useful links',
+            title: 'resource',
             items: [
               {
-                label: 'Odin Project',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Developer Roadmaps',
+                href: 'https://roadmap.sh',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Free Code Camp',
+                href: 'https://www.freecodecamp.org',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'MDN Web',
+                href: 'https://developer.mozilla.org',
               },
+              {
+                label: 'The Odin Project',
+                href: 'https://www.theodinproject.com/',
+              }
             ],
           },
           {
