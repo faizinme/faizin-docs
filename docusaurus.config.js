@@ -135,6 +135,10 @@ const config = {
                 to: '/docs/intro',
               },
               {
+                label: 'Email',
+                href: 'mailto:faizin@kreatifpiksel.com',
+              },
+              {
                 label: 'Kreatif Piksel',
                 href: 'https://kreatifpiksel.com',
               }
