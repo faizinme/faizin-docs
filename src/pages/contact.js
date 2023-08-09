@@ -13,7 +13,7 @@ export default function Contact() {
           fontSize: '20px',
         }}>
         <p>
-          Anda dapat menghubungi kami via email nur@faizin.me atau faizin@kreatifpiksel.com
+          Anda dapat menghubungi kami via email nur[at]faizin.me atau faizin[at]kreatifpiksel.com
         </p>
       </div>
     </Layout>
