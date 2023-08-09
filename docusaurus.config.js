@@ -16,8 +16,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'faizinme', // Usually your GitHub org/user name.
+  //projectName: 'docusaurus', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Faizin Docss',
+        title: 'Faizin Docs',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -68,11 +68,11 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Tutorial',
-            label: 'About',
+            label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/faizinme',
             label: 'GitHub',
             position: 'right',
           },
@@ -85,7 +85,7 @@ const config = {
             title: 'social media',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Docs',
                 to: '/docs/intro',
               },
               {
@@ -102,7 +102,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: 'https:twitter.com',
+                href: 'https://twitter.com',
               },
             ],
           },
@@ -131,13 +131,21 @@ const config = {
             title: 'More',
             items: [
               {
+                label: 'Docs',
+                to: '/docs/intro',
+              },
+              {
                 label: 'Blog',
                 to: '/blog',
-              },
+              }
               {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
               },
+              {
+                label: 'Kreatif Piksel',
+                href: 'https://kreatifpiksel.com',
+              }
             ],
           },
         ],
