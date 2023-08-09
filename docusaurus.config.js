@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Lifelong learning, tech support, and amateur writer',
+  title: 'Faizin Notes',
   tagline: 'Hello, Im Faizin, a passionate advocate of lifelong learning, a savvy marketing strategist, and your reliable tech support ally. With an insatiable thirst for knowledge, a knack for crafting compelling campaigns, and a toolbox filled with technical wizardry, Im here to elevate your digital journey.',
   url: 'https://faizin.me',
   baseUrl: '/',
