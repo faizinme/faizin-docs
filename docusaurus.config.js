@@ -89,7 +89,7 @@ const config = {
                 to: '/docs/intro',
               },
               {
-                label: 'Facebook'
+                label: 'Facebook',
                 href: 'https://www.facebook.com/',
               },
               {
