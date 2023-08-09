@@ -56,19 +56,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      algolia: {
-      appId: 'YOUR_APP_ID',
-      indexName: 'YOUR_INDEX_NAME',
-      contextualSearch: true,
-      externalUrlRegex: 'faizin.me',
-      replaceSearchResultPathname: {
-        from 'docs/',
-        to: 'blog',
-      },
-      searchParameters: {},
-      searchPagePath: 'search',
-
-      }
       navbar: {
         title: 'Faizin Notes',
         logo: {
