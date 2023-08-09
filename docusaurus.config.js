@@ -85,10 +85,6 @@ const config = {
             title: 'social media',
             items: [
               {
-                label: 'Docs',
-                to: '/docs/intro',
-              },
-              {
                 label: 'Facebook',
                 href: 'https://www.facebook.com/',
               },
@@ -128,7 +124,7 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'more',
             items: [
               {
                 label: 'Blog',
