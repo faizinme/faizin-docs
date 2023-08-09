@@ -131,16 +131,12 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Docs',
-                to: '/docs/intro',
-              },
-              {
                 label: 'Blog',
                 to: '/blog',
-              }
+              },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'Docs',
+                to: '/docs/intro',
               },
               {
                 label: 'Kreatif Piksel',
