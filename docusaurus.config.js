@@ -66,11 +66,12 @@ const config = {
           {
             type: 'doc',
             docId: 'intro',
-            position: 'right',
+            position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'right'},
-          {to: '/about', label: 'About', position: 'right'},
+          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/about', label: 'About', position: 'left'},
+          {to: '/contact', label: 'Contact', position: 'left'},
           {
             href: 'https://github.com/faizinme',
             label: 'GitHub',
