@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Faizin Notes',
-  tagline: 'Im Faizin, a boundless creative spirit on a mission to turn the ordinary into the extraordinary! My world is a canvas of vibrant ideas, a symphony of colors, and a playground for innovation. I breathe, dream, and live creativity in every facet of my life.',
+  tagline: 'Hry there, Im Faizin, a boundless creative spirit on a mission to turn the ordinary into the extraordinary! My world is a canvas of vibrant ideas, a symphony of colors, and a playground for innovation. I breathe, dream, and live creativity in every facet of my life.',
   url: 'https://faizin.me',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -57,9 +57,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Faizin Docs',
+        title: 'Faizin Notes',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Faizin.net logo',
           src: 'img/logo.svg',
         },
         items: [
