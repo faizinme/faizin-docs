@@ -1,6 +1,6 @@
 new Crawler({
     appId: 'N47XE1AMIZ',
-    apiKey: '294200547f07d9c591b619d2ee93b76b', 
+    apiKey: '6fcda1900439b95ee5a07d1ae3edcfe0', 
 
     rateLimit: 8,
     maxDepth: 10,
