@@ -76,6 +76,10 @@ const config = {
             href: 'https://github.com/faizinme',
             label: 'GitHub',
             position: 'right',
+          {
+            href: 'https://faizin.me',
+            label: 'Resume',
+            position: 'right',
           },
         ],
       },
