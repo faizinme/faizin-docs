@@ -84,7 +84,7 @@ const config = {
         apikey: '6fcda1900439b95ee5a07d1ae3edcfe0',
         indexName: 'faizin_dot_net',
         contextualSearch: true,
-      }
+      },
       footer: {
         style: 'dark',
         links: [
