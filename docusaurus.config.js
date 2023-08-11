@@ -78,12 +78,7 @@ const config = {
             position: 'right',
           },
         ],
-      },
-      algolia: {
-        apiId: 'N47XE1AMIZ',
-        apikey: '6fcda1900439b95ee5a07d1ae3edcfe0',
-        contextualSearch: true,
-      },
+      }
       footer: {
         style: 'dark',
         links: [
@@ -151,13 +146,22 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Faizin dot net.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Faizin dot me.`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
     }),
+};
+
+const config = {
+  themeConfig: {
+    algolia: {
+      appId: 'N47XE1AMIZ',
+      apiKey: '6fcda1900439b95ee5a07d1ae3edcfe0',
+    },
+  },
 };
 
 module.exports = config;
