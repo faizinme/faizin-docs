@@ -1,6 +1,7 @@
 new Crawler({
     appId: 'N47XE1AMIZ',
-    apiKey: '0c42356ef55a122f9da088baf1ec0986',
+    apiKey: '294200547f07d9c591b619d2ee93b76b', 
+
     rateLimit: 8,
     maxDepth: 10,
     startUrls: ['https://faizin.me/'],
