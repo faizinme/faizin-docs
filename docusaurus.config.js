@@ -78,7 +78,12 @@ const config = {
             position: 'right',
           },
         ],
-      }
+      },
+      algolia: {
+        apikey: '6fcda1900439b95ee5a07d1ae3edcfe0',
+        appId: 'N47XE1AMIZ',
+        indexName: faizin_dot_me,
+      },
       footer: {
         style: 'dark',
         links: [
@@ -153,15 +158,6 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-};
-
-const config = {
-  themeConfig: {
-    algolia: {
-      appId: 'N47XE1AMIZ',
-      apiKey: '6fcda1900439b95ee5a07d1ae3edcfe0',
-    },
-  },
 };
 
 module.exports = config;
