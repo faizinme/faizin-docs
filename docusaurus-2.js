@@ -43,7 +43,7 @@ new Crawler({
       },
     ],
     initialIndexSettings: {
-        faizin_dot_me': {
+        faizin_dot_me: {
         attributesForFaceting: [
           'type',
           'lang',
