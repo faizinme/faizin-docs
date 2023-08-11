@@ -80,7 +80,7 @@ const config = {
         ],
       },
       algolia: {
-        apiKey: '6fcda1900439b95ee5a07d1ae3edcfe0',
+        apiKey: '0c42356ef55a122f9da088baf1ec0986',
         appId: 'N47XE1AMIZ',
         indexName: 'faizin_dot_me',
       },
