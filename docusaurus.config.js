@@ -82,7 +82,7 @@ const config = {
       algolia: {
         apiKey: '294200547f07d9c591b619d2ee93b76b',
         appId: 'N47XE1AMIZ',
-        indexName: 'faizin_dot_me',
+        indexName: 'faizin_dot_me_tmp',
         contextualSearch: true,
       },
       footer: {
