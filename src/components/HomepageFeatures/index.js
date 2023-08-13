@@ -23,8 +23,8 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Javascript frameworks',
-    Svg: require('@site/static/img/server-svgrepo-com.svg').default,
+    title: 'Love Open Source',
+    Svg: require('@site/static/img/open-source.svg').default,
     description: (
       <>
         Menghadirkan website dinamis melalui penerapan Javascript frameworks, membuka pintu menuju pengalaman pengguna yang lebih interaktif dan menarik.
