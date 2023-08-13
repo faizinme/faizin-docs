@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Dokumentasi',
-    Svg: require('@site/static/img/folder-settiings-svgrepo-com.svg').default,
+    Svg: require('@site/static/img/folder-settings-svgrepo-com.svg').default,
     description: (
       <>
         Personal website ini diciptakan sebagai wadah pribadi untuk mendokumentasikan dan memudahkan dalam pekerjaan melalui
