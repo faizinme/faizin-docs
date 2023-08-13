@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Tentang saya',
-    Svg: require('@site/static/img/web-dev-140.svg').default,
+    Svg: require('@site/static/img/about.svg').default,
     description: (
       <>
         Terkadang, hal <code>penting</code> terlupakan. Blog ini mencatat apa yang penulis anggap berharga, menjaga agar tak hilang dalam aliran waktu.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Dokumentasi',
-    Svg: require('@site/static/img/folder-settings-svgrepo-com.svg').default,
+    Svg: require('@site/static/img/docs.svg').default,
     description: (
       <>
         Personal website ini diciptakan sebagai wadah pribadi untuk mendokumentasikan dan memudahkan dalam pekerjaan melalui
