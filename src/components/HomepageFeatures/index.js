@@ -4,32 +4,30 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Tentang saya',
+    Svg: require('@site/static/img/employee-svgrepo-com.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Terkadang, hal <code>penting</code> terlupakan. Blog ini mencatat apa yang penulis anggap berharga, menjaga agar tak hilang dalam aliran waktu.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Dokumentasi',
+    Svg: require('@site/static/img/folder-settiings-svgrepo-com.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Personal website ini diciptakan sebagai wadah pribadi untuk mendokumentasikan dan memudahkan dalam pekerjaan melalui
+        pencatatan yang teratur dan efisien.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Javascript frameworks',
+    Svg: require('@site/static/img/server-svgrepo-com.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Menghadirkan website dinamis melalui penerapan Javascript frameworks, membuka pintu menuju pengalaman pengguna yang lebih interaktif dan menarik.
       </>
     ),
   },
