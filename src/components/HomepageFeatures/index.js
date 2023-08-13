@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Tentang saya',
-    Svg: require('@site/static/img/employee-svgrepo-com.svg').default,
+    Svg: require('@site/static/img/web-dev.svg').default,
     description: (
       <>
         Terkadang, hal <code>penting</code> terlupakan. Blog ini mencatat apa yang penulis anggap berharga, menjaga agar tak hilang dalam aliran waktu.
