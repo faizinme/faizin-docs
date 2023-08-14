@@ -73,11 +73,10 @@ const config = {
           {to: '/about', label: 'About', position: 'left'},
           {to: '/contact', label: 'Contact', position: 'left'},
           {
-            href: 'https://github.com/faizinme/faizin-docs',
-            label: 'GitHub',
+            href: 'https://github.com/faizinme',
             position: 'right',
-            classname: 'header-github-link',
-            'aria-label': 'GitHub repository',
+            className: 'header-github-link',
+            "aria-label": "GitHub repository",
 
           },
         ],
