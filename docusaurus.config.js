@@ -118,7 +118,7 @@ const config = {
             ],
           },
           {
-            title: 'resource',
+            title: 'awesome resource',
             items: [
               {
                 label: 'Developer Roadmaps',
@@ -165,7 +165,7 @@ const config = {
           src: '/img/kreatif-piksel.png',
           href: 'https://kreatifpiksel.com',
         },
-        copyright: `Copyright © ${new Date().getFullYear()} Faizin dot me.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Faizin dot me. all `,
       },
       prism: {
         theme: lightCodeTheme,
