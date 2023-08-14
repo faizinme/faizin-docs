@@ -61,6 +61,7 @@ const config = {
         logo: {
           alt: 'Faizin.net logo',
           src: 'img/faizinme-logo.svg',
+          srcDark: 'img/faizinme-logo-dark.svg'
         },
         items: [
           {
