@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/faizin-logo-new.svg',
+  favicon: 'img/favicon.svg',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -60,7 +60,7 @@ const config = {
         title: 'Faizin Notes',
         logo: {
           alt: 'Faizin.net logo',
-          src: 'img/faizin-note.svg',
+          src: 'img/faizinme-logo.svg',
         },
         items: [
           {
