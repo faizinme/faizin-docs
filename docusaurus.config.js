@@ -73,11 +73,15 @@ const config = {
           {to: '/about', label: 'About', position: 'left'},
           {to: '/contact', label: 'Contact', position: 'left'},
           {
+            href: '#',
+            label: 'Resume',
+            position: 'right',
+          },
+          {
             href: 'https://github.com/faizinme',
             position: 'right',
             className: 'header-github-link',
             "aria-label": "GitHub repository",
-
           },
         ],
       },
