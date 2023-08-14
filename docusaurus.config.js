@@ -73,7 +73,7 @@ const config = {
           {to: '/about', label: 'About', position: 'left'},
           {to: '/contact', label: 'Contact', position: 'left'},
           {
-            href: 'https://github.com/faizinme',
+            href: 'https://github.com/faizinme/faizin-docs',
             label: 'GitHub',
             position: 'right',
             classname: 'header-github-link',
