@@ -80,10 +80,11 @@ const config = {
         ],
       },
       algolia: {
-        apiKey: '294200547f07d9c591b619d2ee93b76b',
-        appId: 'N47XE1AMIZ',
-        indexName: 'faizin_dot_me',
+        apiKey: '51eb9ca66f365d6326971c40d230837d',
+        appId: 'RRLB5GB5XE',
+        indexName: 'faizin',
         contextualSearch: true,
+        insights: true,
       },
       footer: {
         style: 'dark',
