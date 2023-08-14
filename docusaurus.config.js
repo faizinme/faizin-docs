@@ -76,6 +76,9 @@ const config = {
             href: 'https://github.com/faizinme',
             label: 'GitHub',
             position: 'right',
+            classname: 'header-github-link',
+            'aria-label': 'GitHub repository',
+
           },
         ],
       },
