@@ -151,11 +151,11 @@ const config = {
               },
               {
                 label: 'Email',
-                href: 'mailto:faizin@kreatifpiksel.com',
+                href: 'mailto:nur@faizin.me',
               },
               {
-                label: 'Kreatif Piksel',
-                href: 'https://kreatifpiksel.com',
+                label: 'Status',
+                href: 'https://stats.uptimerobot.com/WEAmQCz6nL',
               }
             ],
           },
