@@ -165,7 +165,7 @@ const config = {
           src: '/img/kreatif-piksel.png',
           href: 'https://kreatifpiksel.com',
         },
-        copyright: `Copyright © ${new Date().getFullYear()} Faizin dot me, All rights reserved`,
+        copyright: `Copyright © ${new Date().getFullYear()} Faizin dot me, All rights reserved.`,
       },
       prism: {
         theme: lightCodeTheme,
