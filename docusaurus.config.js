@@ -162,7 +162,7 @@ const config = {
         ],
         logo: {
           alt: 'Kreatif Piksel Logo',
-          src: '/img/logo.svg',
+          src: '/img/kreatif-piksel.png',
           href: 'https://kreatifpiksel.com',
         },
         copyright: `Copyright © ${new Date().getFullYear()} Faizin dot me.`,
