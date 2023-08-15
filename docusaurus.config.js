@@ -178,7 +178,7 @@ const config = {
           },
         ],
         logo: {
-          alt: 'Kreatif Piksel Logo',
+          alt: 'Kreatif Piksel',
           src: '/img/kreatif-piksel.png',
           href: 'https://kreatifpiksel.com',
         },
