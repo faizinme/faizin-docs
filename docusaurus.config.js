@@ -151,7 +151,7 @@ const config = {
               },
               {
                 label: 'TOS',
-                href: 'about',
+                href: '/about',
               }
             ],
           },
