@@ -139,6 +139,19 @@ const config = {
             ],
           },
           {
+            title: 'lagel',
+            items: [
+              {
+                label: 'Disclaimer',
+                href: 'https//faizin.me/about'
+              },
+              {
+                label: 'Privacy Policy',
+                href: 'https://faizin.me/about',
+              }
+            ],
+          },
+          {
             title: 'more',
             items: [
               {
