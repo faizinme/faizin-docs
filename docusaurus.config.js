@@ -139,7 +139,7 @@ const config = {
             ],
           },
           {
-            title: 'lagel',
+            title: 'legal',
             items: [
               {
                 label: 'Disclaimer',
