@@ -20,5 +20,5 @@ Every effort is made to keep the Website up and running smoothly. However, faizi
 
 By using the Website, you agree to this disclaimer and its terms. If you do not agree with this disclaimer and its terms, you should not use the Website.
 
-Last updated on Aug 16, 2023
+Last Updated: on August 16, 2023
 
