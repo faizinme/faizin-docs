@@ -148,6 +148,10 @@ const config = {
               {
                 label: 'Privacy Policy',
                 href: '/about',
+              },
+              {
+                label: 'TOS',
+                href: 'about',
               }
             ],
           },
