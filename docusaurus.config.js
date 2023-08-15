@@ -143,11 +143,11 @@ const config = {
             items: [
               {
                 label: 'Disclaimer',
-                href: 'https://www.faizin.me/about',
+                href: '/about',
               },
               {
                 label: 'Privacy Policy',
-                href: 'https://www.faizin.me/about',
+                href: '/about',
               }
             ],
           },
