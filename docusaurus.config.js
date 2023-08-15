@@ -143,7 +143,7 @@ const config = {
             items: [
               {
                 label: 'Disclaimer',
-                href: 'https://www.faizin.me/about'
+                href: 'https://www.faizin.me/about',
               },
               {
                 label: 'Privacy Policy',
