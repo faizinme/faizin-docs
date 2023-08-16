@@ -64,15 +64,16 @@ const config = {
           srcDark: 'img/faizinme-logo-dark.svg'
         },
         items: [
+          {to: '/about', label: 'About', position: 'left'},
+          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/contact', label: 'Contact', position: 'left'},
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/about', label: 'About', position: 'left'},
-          {to: '/contact', label: 'Contact', position: 'left'},
+          
           {
             href: 'https://github.com/faizinme',
             label: 'Resume',
