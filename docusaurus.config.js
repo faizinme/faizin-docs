@@ -143,15 +143,11 @@ const config = {
             items: [
               {
                 label: 'Disclaimer',
-                href: '/about',
+                href: '/disclaimer',
               },
               {
-                label: 'Privacy Policy',
-                href: '/about',
-              },
-              {
-                label: 'TOS',
-                href: '/about',
+                label: 'Privacy',
+                href: '/privacy-policy',
               }
             ],
           },
