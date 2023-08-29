@@ -60,7 +60,7 @@ const config = {
         title: 'Faizin Notes',
         logo: {
           alt: 'Faizin.net logo',
-          src: 'img/faizinme-logo.svg',
+          src: 'img/logome.svg',
           srcDark: 'img/faizinme-logo-dark.svg'
         },
         items: [
