@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Faizin Notes',
+        title: 'Faizin Notes.',
         logo: {
           alt: 'Faizin.net logo',
           src: 'img/logome.svg',
